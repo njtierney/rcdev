@@ -1,0 +1,94 @@
+# summarised notes from zoom meeting
+
+11:04:55 From Nicholas Tierney to Everyone:
+	https://github.com/njtierney/rcdev/tree/main/week1
+
+11:21:29 From Alex Xu to Everyone:
+	About the boolean type in C: https://www.w3schools.com/c/c_booleans.php
+	
+11:22:40 From Fonti Kar to Everyone:
+	The lack of native boolean totally went over my head so nice spot Johann!!!
+	
+11:23:07 From Johann Wagner to Everyone:
+	https://github.com/leachim6/hello-world
+		
+11:30:04 From Johann Wagner to Everyone:
+	I'm excited for when David will transition from C to Python. Curious how his approach to teaching will be for that week!
+	
+11:30:35 From Fonti Kar to Everyone:
+	Loved the scratch parallels might use that one to on board new R learners
+	
+11:31:25 From Johann Wagner to Everyone:
+	Yeah Scratch was super cool. It would be cool if there was like a scratch for dplyr or like tidyverse ahha
+	
+11:33:50 From Johann Wagner to Everyone:
+	Use of semicolons and needing to compile too was a new concept
+	
+11:35:58 From Johann Wagner to Everyone:
+	Biggest mindblown was finally understanding what all the %s, %i mean :D
+	
+11:36:15 From Fonti Kar to Everyone:
+	For sure!! It has meaning!!
+	
+11:37:36 From Alex Xu to Everyone:
+	btw I think we can't run C code line by line in Visual Studio right?
+	
+11:37:49 From Jess Tam to Everyone:
+	unfortunately not
+	
+11:37:51 From Fonti Kar to Everyone:
+	I haven’t tried, I’ve been using the cloud container
+	
+11:39:10 From Alex Xu to Everyone:
+	It would be a big problem for me to debug then, I guess that is exactly why they promote ppl to code by each element and wrap it in functions actually
+	
+11:39:13 From Fonti Kar to Everyone:
+	I haven’t gone through the shorts yet, stuck on Mario-less problem set
+	
+11:39:40 From Johann Wagner to Everyone:
+	It's interesting, because I'm unsure whether the concept of 'line by line' works in C, because it needs to be compiled first?
+	
+11:39:55 From Jess Tam to Everyone:
+	i think there might be a debugger extension? similar to python
+		
+11:41:36 From Johann Wagner to Everyone:
+	"char is a single character!" Yeah that was crazy ahaha, but also makes so much obvious sense
+	
+11:42:25 From Alex Xu to Everyone:
+	It's not a bug when it is a feature
+	Johann Wagner, Jess Tam:❤️
+	
+11:42:46 From Nicholas Tierney to Everyone:
+	https://www.stat.auckland.ac.nz/~ihaka/downloads/lexical.pdf
+	
+11:47:20 From Alex Xu to Everyone:
+	Question, after you run the function meow doesn n change to 3?
+	
+11:49:31 From Alex Xu to Everyone:
+	So I guess it basically create a copy of that varieable when it run the function
+	
+11:54:12 From Nicholas Tierney to Everyone:
+	https://github.com/njtierney/rcdev/discussions/1
+	
+11:57:28 From Johann Wagner to Everyone:
+	I know very little about debugging (both R and C) so that will be sweet to see the lecture notes and comparison to R
+	
+11:59:23 From Jess Tam to Everyone:
+	jesstytam
+	
+11:59:26 From Dean Marchiori to Everyone:
+	deanmarchiori
+		
+11:59:39 From Alex Xu to Everyone:
+	aswxu
+	
+11:59:47 From Johann Wagner to Everyone:
+	johann-wagner
+
+12:01:41 From Fonti Kar to Everyone:
+	We are broadly following this https://contributor.r-project.org/events/c-study-group-2025/
+			
+12:03:39 From Alex Xu to Everyone:
+	It's call "Addictional Practice" in the menu
+	Fonti Kar:👍
+	
