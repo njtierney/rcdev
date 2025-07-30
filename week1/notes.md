@@ -77,3 +77,16 @@
 
 - I found this funny/tricky because I really don't like doing this math in my head when I'm in the USA.
 - using casting `(float)tip` - I 
+
+### mario
+
+- I started working through the lecture again because I forgot a few things.
+- Some of the things I forgot:
+  - how to write `#include <stdio.h>`
+    - Internalised: `#include` is a special macro, and `<stdio.h>` is how to refer to special header files
+  - adding `;` to end of file
+  - running `make <program_name>` - I did "make mario.c" first.
+  - using `./` to run the program
+  - running `./mario` not `mario`
+  - making a function with void
+  - putting the signature/top of the function template at the top of the code
